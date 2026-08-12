@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<h1 data-importer="text" align="center">Hey, what's up? Take a look around!</h1>
 
 ###
 
@@ -24,14 +24,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/ryansmarques" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/ryyan_sm22" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="mailto:ryansilvamarques01@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanzin/Ryanzin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanzin/Ryanzin/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryanzin/Ryanzin/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
